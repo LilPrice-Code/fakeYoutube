@@ -125,3 +125,7 @@
 /home/student/Free-Lance Codiing/Net/Youapi/obj/Debug/netcoreapp3.1/Youapi.csproj.CopyComplete
 /home/student/Free-Lance Codiing/Net/Youapi/obj/Debug/netcoreapp3.1/Youapi.dll
 /home/student/Free-Lance Codiing/Net/Youapi/obj/Debug/netcoreapp3.1/Youapi.pdb
+/home/student/Free-Lance Codiing/Net/Youapi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/student/Free-Lance Codiing/Net/Youapi/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/student/Free-Lance Codiing/Net/Youapi/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/student/Free-Lance Codiing/Net/Youapi/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll

@@ -1,0 +1,17 @@
+body{
+    display: grid; 
+    grid-template-columns:  repeat (7, 1fr);
+}
+header{
+    grid-column: 1-4;
+    grid-row: 1;
+}
+aside{
+    grid-column: 1;
+    grid-row: 2;
+}
+section{
+    grid-column: 2-8;
+    grid-row: 2;
+    text-align: left;
+}
